@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Bakersfield, California with a population of over 403k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Bakersfield, California, US",
+  "export_job_id": "090c19dc-e817-4517-8065-93e4a0ce7a66",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 194352,
+  "location_name": "Bakersfield",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-bakersfield-california-us-sample-194352",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/194352/beamstation_194352_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 119,
+  "sample_sha256": "316af2de817a840ec361d97627779acb80e23d9d8f3c9e13816e4737e2db5197",
+  "sample_size_bytes": 469445,
+  "total_records": 1195,
+  "updated_at": "2026-04-09T09:58:14.908670+00:00"
+}
