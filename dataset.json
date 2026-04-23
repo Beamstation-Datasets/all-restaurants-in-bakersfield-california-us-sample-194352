@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Bakersfield, California with a population of over 403k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Bakersfield, California, US",
-  "export_job_id": "2f034b64-d30c-4b9e-88ca-581a24f0f4c7",
+  "export_job_id": "70bb1ac4-b5e1-4219-8e4c-65327892c656",
   "github_org": "Beamstation-Datasets",
   "id_short": 194352,
   "location_name": "Bakersfield",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-bakersfield-california-us-sample-194352",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/194352/beamstation_194352_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 117,
-  "sample_sha256": "8cf29434070eead75ed1e16a71c4650fff3e9b9372fe724b332260792dffa342",
-  "sample_size_bytes": 464226,
-  "total_records": 1172,
-  "updated_at": "2026-04-16T09:52:58.112726+00:00"
+  "sample_records": 65,
+  "sample_sha256": "0c487b955de28b87c1ea5698dd9336ef986c4cf1a27dfc1f706c1b309dfeba39",
+  "sample_size_bytes": 232282,
+  "total_records": 651,
+  "updated_at": "2026-04-23T09:49:02.885112+00:00"
 }
