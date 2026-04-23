@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2f034b64-d30c-4b9e-88ca-581a24f0f4c7",
+  "export_job_id": "70bb1ac4-b5e1-4219-8e4c-65327892c656",
   "id_short": 194352,
-  "published_at": "2026-04-19T07:57:39Z",
+  "published_at": "2026-04-23T19:18:34Z",
   "repo_name": "all-restaurants-in-bakersfield-california-us-sample-194352",
   "sample_asset_name": "beamstation_194352_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/194352/beamstation_194352_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 117,
-  "sample_sha256": "8cf29434070eead75ed1e16a71c4650fff3e9b9372fe724b332260792dffa342",
-  "sample_size_bytes": 464226,
-  "total_records": 1172
+  "sample_records": 65,
+  "sample_sha256": "0c487b955de28b87c1ea5698dd9336ef986c4cf1a27dfc1f706c1b309dfeba39",
+  "sample_size_bytes": 232282,
+  "total_records": 651
 }
